@@ -1,0 +1,14 @@
+{
+  "properties": [
+
+    {
+      "name": "eureka.client.instance.lease-expiration-duration-in-seconds",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.instance.lease-expiration-duration-in-seconds."
+    },
+    {
+      "name": "eureka.client.instance.lease-renewal-interval-in-seconds",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.instance.lease-renewal-interval-in-seconds."
+    }
+  ] }

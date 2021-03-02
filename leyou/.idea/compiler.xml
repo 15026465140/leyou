@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itcast_elasticsearch" />
+        <module name="leyou-order" />
+        <module name="leyou_auth_common" />
+        <module name="leyou_auth_service" />
+        <module name="leyou_cart" />
+        <module name="leyou_gateway" />
+        <module name="leyou_goods_web" />
+        <module name="leyou_item_interface" />
+        <module name="leyou_item_service" />
+        <module name="leyou_registry" />
+        <module name="leyou_sms_service" />
+        <module name="leyou_upload" />
+        <module name="leyou_user_interface" />
+        <module name="leyou_user_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="itcast-rabbitmq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
